@@ -1,0 +1,137 @@
+[
+    {
+        "id": 1,
+        "stall_no": 105,
+        "publication_name": "আনন্দ পাবলিশার্স",
+        "country": "INDIA",
+        "established": 1987,
+        "dp": "https://i.ibb.co/hdZpPXQ/anada.jpg",
+        "fee": 100000
+    },
+    {
+        "id": 2,
+        "stall_no": 207,
+        "publication_name": "Onnya Dhara",
+        "country": "BANGLADESH",
+        "established": 1977,
+        "dp": "https://i.ibb.co/kDgzqzn/onnodhara.jpg",
+        "fee": 200000
+    },
+    {
+        "id": 3,
+        "stall_no": 315,
+        "publication_name": "Charu Lipi",
+        "country": "BANGLADESH",
+        "established": 2007,
+        "dp": "https://i.ibb.co/bR0KcfW/charulipi.jpg",
+        "fee": 250000
+    },
+    {
+        "id": 4,
+        "stall_no": 417,
+        "publication_name": "বাতিঘর প্রকাশনী",
+        "country": "INDIA",
+        "established": 1998,
+        "dp": "https://i.ibb.co/R6tfdmG/batighar.gif",
+        "fee": 350000
+    },
+    {
+        "id": 5,
+        "stall_no": 213,
+        "publication_name": "তাম্রলিপি",
+        "country": "BANGLADESH",
+        "established": 1997,
+        "dp": "https://i.ibb.co/Y0WgR6J/tamrolipi.jpg",
+        "fee": 155000
+    },
+    {
+        "id": 6,
+        "stall_no": 159,
+        "publication_name": "জ্ঞানকোষ প্রকাশনী",
+        "country": "INDIA",
+        "established": 2000,
+        "dp": "https://i.ibb.co/LRyGxpk/gyankosh.jpg",
+        "fee": 350000
+    },
+    {
+        "id": 7,
+        "stall_no": 159,
+        "publication_name": "ঐতিহ্য",
+        "country": "BANGLADESH",
+        "established": 1974,
+        "dp": "https://i.ibb.co/p1j8KZj/oitijja.jpg",
+        "fee": 220000
+    },
+    {
+        "id": 8,
+        "stall_no": 333,
+        "publication_name": "অক্ষরপত্র প্রকাশনী",
+        "country": "INDIA",
+        "established": 1987,
+        "dp": "https://i.ibb.co/YXfBGzC/okkhorpatra.png",
+        "fee": 750000
+    },
+    {
+        "id": 9,
+        "stall_no": 265,
+        "publication_name": "সেবা প্রকাশনী",
+        "country": "BANGLADESH",
+        "established": 2002,
+        "dp": "https://i.ibb.co/t4Gjkwx/sheba.jpg",
+        "fee": 450000
+    },
+    {
+        "id": 10,
+        "stall_no": 326,
+        "publication_name": "Anupam",
+        "country": "INDIA",
+        "established": 1997,
+        "dp": "https://i.ibb.co/p4p0KY5/anupam.jpg",
+        "fee": 370000
+    },
+    {
+        "id": 11,
+        "stall_no": 233,
+        "publication_name": "Addhyan",
+        "country": "BANGLADESH",
+        "established": 1999,
+        "dp": "https://i.ibb.co/WzTWbCH/addhyan.jpg",
+        "fee": 365000
+    },
+    {
+        "id": 12,
+        "stall_no": 425,
+        "publication_name": "আদর্শ",
+        "country": "INDIA",
+        "established": 2015,
+        "dp": "https://i.ibb.co/tYDsx6j/adarsha.png",
+        "fee": 650000
+    },
+    {
+        "id": 13,
+        "stall_no": 95,
+        "publication_name": "Samakalin",
+        "country": "BANGLADESH",
+        "established": 1975,
+        "dp": "https://i.ibb.co/jR9dT9L/somokalin.jpg",
+        "fee": 320000
+    },
+    {
+        "id": 14,
+        "stall_no": 10,
+        "publication_name": "Dimik Prokashoni",
+        "country": "BANGLADESH",
+        "established": 1972,
+        "dp": "https://i.ibb.co/q7f0Z4m/dimik.png",
+        "fee": 362000
+    },
+    {
+        "id": 15,
+        "stall_no": 217,
+        "publication_name": "প্রথমা প্রকাশন",
+        "country": "INDIA",
+        "established": 1967,
+        "dp": "https://i.ibb.co/1Kz87bN/prothoma.png",
+        "fee": 770000
+    }
+]
