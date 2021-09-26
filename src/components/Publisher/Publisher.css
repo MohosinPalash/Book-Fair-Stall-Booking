@@ -1,0 +1,22 @@
+.player-info{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    padding: 10px;
+    margin-left: 50px;
+}
+.dp img{
+    height: 200px;
+    width: 200px;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.country-name{
+    font-size: 25px;
+}
+.player-name{
+    color: green
+}
