@@ -12,7 +12,7 @@ const Budget = (props) => {
     return (
         <div>
             <h3>Selected Publishers</h3>
-            <p>No of Players: {props.count.length}</p>
+            <p>No of Publishers: {props.count.length}</p>
             <p>Total Fee: $ {totalFee}</p>
             {
                 publisher.map(pub => <SelectedPublisher publisher={pub}></SelectedPublisher>)

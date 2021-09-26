@@ -31,7 +31,6 @@ const PublisherField = () => {
                         handleAddPublisher={handleAddPublisher}
                     ></Publisher>)
                 }
-
             </div>
             <div className='budget-field'>
                 <Budget count={count}></Budget>
